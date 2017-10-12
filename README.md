@@ -1,16 +1,16 @@
 # SyliusDomesticGoose
-Welcome to the SyliusDomesticGoose which is the place you will find more information about Sylius related things.
+Welcome to the SyliusGoose, which is the place you will find more information about Sylius related things.
 
 <p align="center">
   <br>
-  <img width="400" src="./friends-of-sylius-logo.jpg" alt="Friends Of Sylius logo">
+  <img width="400" src="./friends-of-sylius-logo.png" alt="Friends Of Sylius logo">
   <br>
   <br>
 </p>
 
 > This is the list of Sylius plugins, tutorials, community access and other Sylius dev-related stuff.
 
-### Becomming Friend Of Sylius
+### Becoming Friend Of Sylius
 
 - [Slack channel](http://sylius.org/slack)
 - [Contributing](http://docs.sylius.org/en/latest/contributing/)
