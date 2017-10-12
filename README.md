@@ -1,4 +1,4 @@
-# SyliusDomesticGoose
+# SyliusGoose
 Welcome to the SyliusGoose, which is the place you will find more information about Sylius related things.
 
 <p align="center">
