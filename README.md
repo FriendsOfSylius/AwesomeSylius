@@ -12,6 +12,10 @@ Welcome to the SyliusDomesticGoose which is the place you will find more informa
 
 ### Becomming Friend Of Sylius
 
+- [Slack channel](http://sylius.org/slack)
+- [Contributing](http://docs.sylius.org/en/latest/contributing/)
+- [Plugin Skeleton](https://github.com/Sylius/PluginSkeleton)
+
 ### Plugin list
 
 - [BitBag: CMS](https://github.com/bitbag-commerce/CmsPlugin)
