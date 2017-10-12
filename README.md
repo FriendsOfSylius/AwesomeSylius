@@ -24,7 +24,8 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: DHL24 Shipping Export](https://github.com/bitbag-commerce/DHL24PlShippingExportPlugin)
 - [BitBag: PayU Payments](https://github.com/bitbag-commerce/PayUPlugin)
 - [BitBag: Mercanet BNP Paribas Payments](https://github.com/bitbag-commerce/MercanetBnpParibasPlugin)
-- [Stefan Doorn: Google Tag Manager (Enhanced eCommerce)](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
+- [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
+- [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 
 ### Libraries
