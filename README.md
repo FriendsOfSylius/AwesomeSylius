@@ -33,7 +33,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 ### Bundles, components and libraries
 
-- [Lexik Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to a database, allowing operators to them on the fly. 
+- [Lexik: Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to a database, allowing operators to them on the fly. 
 
 ### Tutorials
 
