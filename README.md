@@ -31,7 +31,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 - [BitBag Sylius Raw HTML](https://github.com/bitbag-commerce/SyliusRawHtml)
 
-### Bundles and components and libraries
+### Bundles, components and libraries
 
 - :cry:
 
