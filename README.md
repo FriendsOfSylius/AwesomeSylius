@@ -18,22 +18,19 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 ### Plugin list
 
-- [BitBag: CMS](https://github.com/bitbag-commerce/CmsPlugin)
-- [BitBag: MailChimp](https://github.com/bitbag-commerce/MailChimpPlugin)
-- [BitBag: Shipping Export](https://github.com/bitbag-commerce/ShippingExportPlugin)
-- [BitBag: DHL24 Shipping Export](https://github.com/bitbag-commerce/DHL24PlShippingExportPlugin)
-- [BitBag: PayU Payments](https://github.com/bitbag-commerce/PayUPlugin)
-- [BitBag: Mercanet BNP Paribas Payments](https://github.com/bitbag-commerce/MercanetBnpParibasPlugin)
+- [BitBag: CMS](https://github.com/bitbag-commerce/CmsPlugin) - Content management system with blocks and pages.
+- [BitBag: MailChimp](https://github.com/bitbag-commerce/MailChimpPlugin) - MailChimp newsletter integration.
+- [BitBag: Shipping Export](https://github.com/bitbag-commerce/ShippingExportPlugin) - Abstraction layer inspired by Payum for exporting shipping data to external API.
+- [BitBag: DHL24 Shipping Export](https://github.com/bitbag-commerce/DHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
+- [BitBag: PayU](https://github.com/bitbag-commerce/PayUPlugin) - PayU payment gateway integration.
+- [BitBag: Mercanet BNP Paribas Payments](https://github.com/bitbag-commerce/MercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 
-### Libraries
-
-- [BitBag Sylius Raw HTML](https://github.com/bitbag-commerce/SyliusRawHtml)
-
 ### Bundles, components and libraries
 
+- [BitBag: Sylius Raw HTML](https://github.com/bitbag-commerce/SyliusRawHtml) - Entry point for template development.
 - [Lexik: Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to a database, allowing operators to them on the fly. 
 
 ### Tutorials
