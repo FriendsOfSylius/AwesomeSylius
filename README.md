@@ -31,7 +31,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 ### Bundles, components and libraries
 
 - [BitBag: Sylius Raw HTML](https://github.com/bitbag-commerce/SyliusRawHtml) - Entry point for template development.
-- [Lexik: Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to a database, allowing operators to them on the fly. 
+- [Lexik: Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to the database, allowing operators to change them on the fly. 
 
 ### Tutorials
 
