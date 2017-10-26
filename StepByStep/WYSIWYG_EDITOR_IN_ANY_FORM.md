@@ -83,7 +83,7 @@ final class ProductTranslationTypeExtension extends AbstractTypeExtension
 
 ```yaml
 services:
-    admin.form.extension.product_translation:
+    app.form.extension.product_translation:
         class: AppBundle\Form\Extension\ProductTranslationTypeExtension
         tags:
             - { name: form.type_extension, extended_type: Sylius\Bundle\ProductBundle\Form\Type\ProductTranslationType, priority: -1 }
