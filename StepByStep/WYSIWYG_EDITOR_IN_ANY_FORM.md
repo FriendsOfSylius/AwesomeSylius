@@ -1,4 +1,4 @@
-# Goal: Integrating CKEditor in any place in the Sylius form, for example, a product description.
+# How to enable WYSIWYG editor in almost any place in Sylius within 5 minutes
 
 > This is the list of Sylius plugins, tutorials, community access and other Sylius dev-related stuff.
 
