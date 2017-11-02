@@ -29,6 +29,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
+- [Sylake SyliusConsumerPlugin](https://github.com/Sylake/SyliusConsumerPlugin)
 
 #### Work in progress plugins
 
@@ -39,6 +40,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 - [BitBag: Sylius Raw HTML](https://github.com/bitbag-commerce/SyliusRawHtml) - Entry point for template development.
 - [Lexik: Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to the database, allowing operators to change them on the fly. 
+- [Sylake AkaneoProductBundle](https://github.com/Sylake/AkeneoProducerBundle)
 
 ### Tutorials
 
