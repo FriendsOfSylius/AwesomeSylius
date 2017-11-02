@@ -18,7 +18,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 ### Plugin list
 
-## Stable plugins
+#### Stable plugins
 
 - [BitBag: CMS](https://github.com/bitbag-commerce/CmsPlugin) - Content management system with blocks and pages.
 - [BitBag: MailChimp](https://github.com/bitbag-commerce/MailChimpPlugin) - MailChimp newsletter integration.
@@ -30,7 +30,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 
-## Work in progress plugins
+#### Work in progress plugins
 
 - [SolutionDrive SyliusExportImportPlugin](https://github.com/solutionDrive/SyliusImportExportPlugin)
 - [Snake-Tn SyliusRewardPlugin](https://github.com/Snake-Tn/SyliusRewardPlugin)
