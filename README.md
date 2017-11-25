@@ -59,7 +59,6 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 ](https://bitbag.shop/blog/post/my-adventure-with-sylius-and-open-source-part-1)
 - [BigBag: My adventure with Sylius and Open Source - part 2
 ](https://bitbag.shop/blog/post/my-adventure-with-sylius-and-open-source-part-2)
-- [BitBag: My adventure with Sylius and Open Source - part 3](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-3-resourcebundle)
 
 ### Social media channels
 
