@@ -30,6 +30,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 - [Sylake: SyliusConsumerPlugin](https://github.com/Sylake/SyliusConsumerPlugin)
+- [Odiseo: OdiseoSyliusVendorPlugin](https://github.com/odiseoteam/SyliusVendorPlugin) - This plugin add vendors to the Sylius products.
 
 #### Work in progress plugins
 
@@ -65,3 +66,4 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: Twitter](https://twitter.com/BitBagCommerce)
 - [BitBag: Facebook](https://www.facebook.com/bitbag/)
 - [Stefan Doorn: Twitter](https://twitter.com/stefan_doorn)
+- [Odiseo: Facebook](http://facebook.com/odiseoteam)
