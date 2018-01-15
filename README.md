@@ -26,6 +26,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: DHL24 Shipping Export](https://github.com/bitbag-commerce/DHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
 - [BitBag: PayU](https://github.com/bitbag-commerce/PayUPlugin) - PayU payment gateway integration.
 - [BitBag: Mercanet BNP Paribas](https://github.com/bitbag-commerce/MercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
+- [BitBag: Adyen](https://github.com/bitbag-commerce/SyliusAdyenPlugin) - Adyen payment integration.
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
