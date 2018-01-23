@@ -28,6 +28,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
 - [BitBag: Mercanet BNP Paribas](https://github.com/bitbag-commerce/MercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
 - [BitBag: Adyen](https://github.com/bitbag-commerce/SyliusAdyenPlugin) - Adyen payment integration.
+- [BitBag: Przelewy24](https://github.com/bitbag-commerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
