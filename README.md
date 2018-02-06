@@ -20,13 +20,13 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 #### Stable plugins
 
-- [BitBag: CMS](https://github.com/BitBagCommerce/CmsPlugin) - Content management system with blocks and pages.
-- [BitBag: MailChimp](https://github.com/BitBagCommerce/MailChimpPlugin) - MailChimp newsletter integration.
-- [BitBag: Shipping Export](https://github.com/BitBagCommerce/ShippingExportPlugin) - Abstraction layer inspired by Payum for exporting shipping data to external API.
-- [BitBag: DHL24 Shipping Export](https://github.com/BitBagCommerce/DHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
-- [BitBag: PayU](https://github.com/BitBagCommerce/PayUPlugin) - PayU payment gateway integration.
+- [BitBag: CMS](https://github.com/BitBagCommerce/SyliusCmsPlugin) - Content management system with blocks and pages.
+- [BitBag: MailChimp](https://github.com/BitBagCommerce/SyliusMailChimpPlugin) - MailChimp newsletter integration.
+- [BitBag: Shipping Export](https://github.com/BitBagCommerce/SyliusShippingExportPlugin) - Abstraction layer inspired by Payum for exporting shipping data to external API.
+- [BitBag: DHL24 Shipping Export](https://github.com/BitBagCommerce/SyliusDHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
+- [BitBag: PayU](https://github.com/BitBagCommerce/SyliusPayUPlugin) - PayU payment gateway integration.
 - [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
-- [BitBag: Mercanet BNP Paribas](https://github.com/BitBagCommerce/MercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
+- [BitBag: Mercanet BNP Paribas](https://github.com/BitBagCommerce/SyliusMercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
 - [BitBag: Adyen](https://github.com/BitBagCommerce/SyliusAdyenPlugin) - Adyen payment integration.
 - [BitBag: Przelewy24](https://github.com/BitBagCommerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
