@@ -20,15 +20,15 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 #### Stable plugins
 
-- [BitBag: CMS](https://github.com/bitbag-commerce/CmsPlugin) - Content management system with blocks and pages.
-- [BitBag: MailChimp](https://github.com/bitbag-commerce/MailChimpPlugin) - MailChimp newsletter integration.
-- [BitBag: Shipping Export](https://github.com/bitbag-commerce/ShippingExportPlugin) - Abstraction layer inspired by Payum for exporting shipping data to external API.
-- [BitBag: DHL24 Shipping Export](https://github.com/bitbag-commerce/DHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
-- [BitBag: PayU](https://github.com/bitbag-commerce/PayUPlugin) - PayU payment gateway integration.
+- [BitBag: CMS](https://github.com/BitBagCommerce/CmsPlugin) - Content management system with blocks and pages.
+- [BitBag: MailChimp](https://github.com/BitBagCommerce/MailChimpPlugin) - MailChimp newsletter integration.
+- [BitBag: Shipping Export](https://github.com/BitBagCommerce/ShippingExportPlugin) - Abstraction layer inspired by Payum for exporting shipping data to external API.
+- [BitBag: DHL24 Shipping Export](https://github.com/BitBagCommerce/DHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
+- [BitBag: PayU](https://github.com/BitBagCommerce/PayUPlugin) - PayU payment gateway integration.
 - [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
-- [BitBag: Mercanet BNP Paribas](https://github.com/bitbag-commerce/MercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
-- [BitBag: Adyen](https://github.com/bitbag-commerce/SyliusAdyenPlugin) - Adyen payment integration.
-- [BitBag: Przelewy24](https://github.com/bitbag-commerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
+- [BitBag: Mercanet BNP Paribas](https://github.com/BitBagCommerce/MercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
+- [BitBag: Adyen](https://github.com/BitBagCommerce/SyliusAdyenPlugin) - Adyen payment integration.
+- [BitBag: Przelewy24](https://github.com/BitBagCommerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
@@ -42,7 +42,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 ### Bundles, components and libraries
 
-- [BitBag: Sylius Raw HTML](https://github.com/bitbag-commerce/SyliusRawHtml) - Entry point for template development.
+- [BitBag: Sylius Raw HTML](https://github.com/BitBagCommerce/SyliusRawHtml) - Entry point for template development.
 - [Lexik: Translation Manager](https://github.com/lexik/LexikTranslationBundle) - It imports all translations from YML files to the database, allowing operators to change them on the fly. 
 - [Sylake: AkeneoProductBundle](https://github.com/Sylake/AkeneoProducerBundle)
 
