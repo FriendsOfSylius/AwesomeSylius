@@ -26,6 +26,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: DHL24 Shipping Export](https://github.com/BitBagCommerce/SyliusDHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
 - [BitBag: PayU](https://github.com/BitBagCommerce/SyliusPayUPlugin) - PayU payment gateway integration.
 - [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
+- [Jan Czernin: BalikonosShippingExportPlugin](https://github.com/czende/BalikonosShippingExportPlugin) - [Balikonos](https://balikonos.cz/) ShippingExport integration.
 - [BitBag: Mercanet BNP Paribas](https://github.com/BitBagCommerce/SyliusMercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
 - [BitBag: Adyen](https://github.com/BitBagCommerce/SyliusAdyenPlugin) - Adyen payment integration.
 - [BitBag: Przelewy24](https://github.com/BitBagCommerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
