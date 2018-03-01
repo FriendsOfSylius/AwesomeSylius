@@ -39,7 +39,8 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 #### Work in progress plugins
 
-- [SolutionDrive: SyliusExportImportPlugin](https://github.com/solutionDrive/SyliusImportExportPlugin)
+- [Liip: SyliusExportImportPlugin](https://github.com/FriendsOfSylius/SyliusExchangeRatesPlugin)
+- [SolutionDrive/Liip: SyliusExportImportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
 - [Snake-Tn: SyliusRewardPlugin](https://github.com/Snake-Tn/SyliusRewardPlugin)
 
 ### Bundles, components and libraries
