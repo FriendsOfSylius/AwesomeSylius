@@ -60,13 +60,13 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 
 ### Blog posts
 
-- [BigBag: Why it is high time to consider Sylius as the best eCommerce solution for PHP?](https://bitbag.pl/blog/post/why-it-is-high-time-to-consider-sylius-as-the-best-ecommerce-solution-for-php)
+- [BigBag: Why it is high time to consider Sylius as the best eCommerce solution for PHP?](https://bitbag.pl/blog/why-it-is-high-time-to-consider-sylius-as-the-best-ecommerce-solution-for-php)
 - [BigBag: BitBag Shipping Export Plugin - simple way to control shipments in your online store
-](https://bitbag.shop/blog/post/bitbag-shipping-export-plugin-simple-way-to-control-shipments-in-your-online-store)
+](https://bitbag.shop/blog/bitbag-shipping-export-plugin-simple-way-to-control-shipments-in-your-online-store)
 - [BigBag: My adventure with Sylius and Open Source - part 1
-](https://bitbag.shop/post/my-adventure-with-sylius-and-open-source-part-1)
+](https://bitbag.shop/blog/my-adventure-with-sylius-and-open-source-part-1)
 - [BigBag: My adventure with Sylius and Open Source - part 2
-](https://bitbag.shop/post/my-adventure-with-sylius-and-open-source-part-2)
+](https://bitbag.shop/blog/my-adventure-with-sylius-and-open-source-part-2)
 
 ### Social media channels
 
