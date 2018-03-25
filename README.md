@@ -25,17 +25,18 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: Shipping Export](https://github.com/BitBagCommerce/SyliusShippingExportPlugin) - Abstraction layer inspired by Payum for exporting shipping data to external API.
 - [BitBag: DHL24 Shipping Export](https://github.com/BitBagCommerce/SyliusDHL24PlShippingExportPlugin) - DHL24PL integration based on ShippingExportPlugin.
 - [BitBag: PayU](https://github.com/BitBagCommerce/SyliusPayUPlugin) - PayU payment gateway integration.
-- [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
-- [Jan Czernin: BalikonosShippingExportPlugin](https://github.com/czende/BalikonosShippingExportPlugin) - [Balikonos](https://balikonos.cz/) ShippingExport integration.
 - [BitBag: Mercanet BNP Paribas](https://github.com/BitBagCommerce/SyliusMercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
 - [BitBag: Adyen](https://github.com/BitBagCommerce/SyliusAdyenPlugin) - Adyen payment integration.
 - [BitBag: Przelewy24](https://github.com/BitBagCommerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
 - [BitBag: Invoicing](https://github.com/BitBagCommerce/SyliusInvoicingPlugin) - Invoicing for Sylius
+- [BitBag: Elasticsearch](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin) - Attributes and options filtering via Elasticsearch engine
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 - [Sylake: SyliusConsumerPlugin](https://github.com/Sylake/SyliusConsumerPlugin)
 - [Odiseo: OdiseoSyliusVendorPlugin](https://github.com/odiseoteam/SyliusVendorPlugin) - This plugin add vendors to the Sylius products.
+- [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
+- [Jan Czernin: BalikonosShippingExportPlugin](https://github.com/czende/BalikonosShippingExportPlugin) - [Balikonos](https://balikonos.cz/) ShippingExport integration.
 
 #### Work in progress plugins
 
