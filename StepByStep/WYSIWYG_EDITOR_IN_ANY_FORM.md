@@ -23,19 +23,7 @@ class AppKernel extends Kernel
 }
 ```
 2. Install CKEditor asset files `bin/console ckeditor:install`
-3. Install assets `bin/console assets:install`
-4. Add the CKEditor JS assets files to your layout file, for instance, if you want to enable WYSIWYG editor in the backend, add it to the `app/Resources/SyliusAdminBundle/views/layout.html.twig`:
-
-```twig
-...
-
-{% block javascripts %}
-    {% include 'SyliusUiBundle::_javascripts.html.twig' with {'path': 'assets/admin/js/app.js'} %}
-    {% include 'SyliusUiBundle::_javascripts.html.twig' with {'path': 'assets/admin/theme/js/app.js'} %}
-
-    {{ sonata_block_render_event('sylius.admin.layout.javascripts') }}
-{% endblock %}
-```
+3. Install assets `bin/console sylius:theme:assets:install`
 
 ### Adding WYSIWYG to product description field
 > We will use the official Symfony form extension method. Read [the official Symfony form extension documentation](https://symfony.com/doc/current/form/create_form_type_extension.html) for more information.
