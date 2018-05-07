@@ -28,8 +28,10 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: Mercanet BNP Paribas](https://github.com/BitBagCommerce/SyliusMercanetBnpParibasPlugin) - Mercanet BNP Paribas payment integration.
 - [BitBag: Adyen](https://github.com/BitBagCommerce/SyliusAdyenPlugin) - Adyen payment integration.
 - [BitBag: Przelewy24](https://github.com/BitBagCommerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
+- [BitBag: Mollie](https://github.com/BitBagCommerce/SyliusMolliePlugin) - Mollie payment integration. Includes recurring payment and refund integration. It's Bitcoin compatible :tada:
 - [BitBag: Invoicing](https://github.com/BitBagCommerce/SyliusInvoicingPlugin) - Invoicing for Sylius
 - [BitBag: Elasticsearch](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin) - Attributes and options filtering via Elasticsearch engine
+- [BitBag: Wishlist](https://github.com/BitBagCommerce/SyliusWishlistPlugin) - Just a wishlist
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
 - [Stefan Doorn: Google Tag Manager Enhanced eCommerce](https://github.com/stefandoorn/google-tag-manager-enhanced-ecommerce-plugin)
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
