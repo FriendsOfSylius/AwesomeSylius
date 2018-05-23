@@ -39,6 +39,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Odiseo: OdiseoSyliusVendorPlugin](https://github.com/odiseoteam/SyliusVendorPlugin) - This plugin add vendors to the Sylius products.
 - [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
 - [Jan Czernin: BalikonosShippingExportPlugin](https://github.com/czende/BalikonosShippingExportPlugin) - [Balikonos](https://balikonos.cz/) ShippingExport integration.
+- [Locastic: HT PayWay] Sylius HT Payway gateway integration (direct/onsite and offsite) 
 
 #### Work in progress plugins
 
