@@ -60,6 +60,7 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: BDD & Resources in Sylius, Behat](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-1-Behat)
 - [BitBag: BDD & Resources in Sylius, PHPSpec](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-2-phpspec)
 - [BitBag: BDD & Resources in Sylius, Sylius Resource (CRUD)](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-3-resourcebundle)
+- [BitBag: How to provide a great B2C experience on top of Sylius?](https://bitbag.shop/blog/how-to-provide-an-awesome-b2c-solution-on-top-of-sylius)
 - [FriendsOfSylius: How to enable WYSIWYG editor in almost any place in Sylius within 5 minutes](https://github.com/friendsofsylius/SyliusGoose/blob/master/StepByStep/WYSIWYG_EDITOR_IN_ANY_FORM.md)
 
 ### Blog posts
