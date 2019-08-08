@@ -30,7 +30,8 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [BitBag: Przelewy24](https://github.com/BitBagCommerce/SyliusPrzelewy24Plugin) - Przelewy24 payment integration.
 - [BitBag: Mollie](https://github.com/BitBagCommerce/SyliusMolliePlugin) - Mollie payment integration. Includes recurring payment and refund integration. It's Bitcoin compatible :tada:
 - [BitBag: QuadPay](https://github.com/BitBagCommerce/SyliusQuadPayPlugin) - QuadPay payment integration.
-- [BitBag: Invoicing](https://github.com/BitBagCommerce/SyliusInvoicingPlugin) - Invoicing for Sylius
+- [BitBag: Coinbase](https://github.com/BitBagCommerce/SyliusCoinbasePlugin) - Coinbase payment integration.
+- [BitBag: Braintree](https://github.com/BitBagCommerce/SyliusBraintreePlugin) - Braintree payment integration.
 - [BitBag: Elasticsearch](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin) - Attributes and options filtering via Elasticsearch engine
 - [BitBag: Wishlist](https://github.com/BitBagCommerce/SyliusWishlistPlugin) - Just a wishlist
 - [Stefan Doorn: Google Tag Manager](https://github.com/stefandoorn/google-tag-manager-plugin)
@@ -47,6 +48,9 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Liip: SyliusExchangeRatesPlugin](https://github.com/FriendsOfSylius/SyliusExchangeRatesPlugin)
 - [SolutionDrive/Liip: SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
 - [Snake-Tn: SyliusRewardPlugin](https://github.com/Snake-Tn/SyliusRewardPlugin)
+- [BitBag: SyliusBonusPointsPlugin](https://github.com/BitBagCommerce/SyliusBonusPointsPlugin)
+- [BitBag: SyliusProductBundlePlugin](https://github.com/BitBagCommerce/SyliusProductBundlePlugin)
+- [BitBag: SyliusSmashPromotionPlugin](https://github.com/BitBagCommerce/SyliusSmashPromotionPlugin)
 
 ### Bundles, components and libraries
 
