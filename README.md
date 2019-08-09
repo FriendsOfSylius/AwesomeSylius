@@ -39,6 +39,11 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 - [Sylake: SyliusConsumerPlugin](https://github.com/Sylake/SyliusConsumerPlugin)
 - [Odiseo: OdiseoSyliusVendorPlugin](https://github.com/odiseoteam/SyliusVendorPlugin) - This plugin add vendors to the Sylius products.
+- [Odiseo: OdiseoSyliusReportPlugin](https://github.com/odiseoteam/SyliusReportPlugin) - This plugin add data reports to the Sylius administration interface.
+- [Odiseo: OdiseoSyliusBlogPlugin](https://github.com/odiseoteam/SyliusBlogPlugin) - This plugin add blog features to the Sylius ecommerce framework. It uses the OdiseoBlogBundle Symfony bundle.
+- [Odiseo: OdiseoSyliusMailchimpPlugin](https://github.com/odiseoteam/SyliusMailchimpPlugin) - This is a Sylius Plugin that connect your store with Mailchimp to use their ecommerce features: https://mailchimp.com/en/resources/mailchimp-e-commerce.
+- [Odiseo: OdiseoSyliusBannerPlugin](https://github.com/odiseoteam/SyliusBannerPlugin) - This plugin add banners to the Sylius content. The banners are fully customizable by the admin.
+- [Odiseo: OdiseoSyliusGeoPlugin](https://github.com/odiseoteam/SyliusGeoPlugin) - This plugin add GeoLocation features to Sylius.
 - [Jan Czernin: GoPay](https://github.com/czende/gopay-plugin) - [GoPay](https://gopay.com/en/) gateway integration.
 - [Jan Czernin: BalikonosShippingExportPlugin](https://github.com/czende/BalikonosShippingExportPlugin) - [Balikonos](https://balikonos.cz/) ShippingExport integration.
 - [Locastic: HT PayWay](http://github.com/locastic/SyliusHTPayWayPlugin) Sylius HT Payway gateway integration (direct/onsite and offsite) 
