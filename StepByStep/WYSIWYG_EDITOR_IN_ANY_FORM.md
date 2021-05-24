@@ -5,7 +5,7 @@
 ### Installing CKEditor
 
 > You can follow [this official Symfony guide](https://symfony.com/doc/master/bundles/IvoryCKEditorBundle/index.html) or read the below basic step by step setup.
-1. Require the bundle: `composer require egeloen/ckeditor-bundle`
+1. Require the bundle: `composer require friendsofsymfony/ckeditor-bundle`
 2. Add CKEditor bundle to your `AppKernel.php` file:
 
 ```php
@@ -14,7 +14,7 @@ class AppKernel extends Kernel
     public function registerBundles()
     {
         $bundles = array(
-            new Ivory\CKEditorBundle\IvoryCKEditorBundle(),
+            new FOS\CKEditorBundle\FOSCKEditorBundle(),
             // ...
         );
 
@@ -49,7 +49,7 @@ declare(strict_types=1);
 
 namespace AppBundle\Form\Extension;
 
-use Ivory\CKEditorBundle\Form\Type\CKEditorType;
+use FOS\CKEditorBundle\Form\Type\CKEditorType;
 use Sylius\Bundle\ProductBundle\Form\Type\ProductTranslationType;
 use Symfony\Component\Form\AbstractTypeExtension;
 use Symfony\Component\Form\FormBuilderInterface;
